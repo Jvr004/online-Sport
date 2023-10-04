@@ -20,4 +20,4 @@ Debe ser desarrollado por el estudiante, es decir sin uso de frameworks.
 Cambiar la fuente. Usar margin y padding.
 Alguna página debe tener contenido a dos o tres columnas, usando flex.
 El sitio debe estar subido a Github y se debe utilizar github pages para desplegarlo en la web.
-Abierta hasta : 30/10/2023 23:59
+
