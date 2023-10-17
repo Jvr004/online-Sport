@@ -7,16 +7,34 @@ body {
 html {
   scroll-behavior: auto;
 }
-* {
-}
+
 header ul {
   list-style: none;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   justify-content: space-evenly;
-  position: fixed;
+  width: 100%;
+  top: 0;
   background-color: firebrick;
-  align-items: center;
+  align-content: center;
   font-size: 30px;
   font-family: roboto;
+}
+
+.container {
+  display: flex;
+  position: fixed;
+  right: 100px;
+}
+
+.secction-productos img {
+  width: 50%;
+}
+
+.logo {
+  width: 100px;
+}
+.tabla-talle img {
+  width: 100%;
 }
